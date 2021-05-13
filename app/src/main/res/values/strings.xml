@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Curso3Semana2</string>
+    <string name="Name">Nombre Completo</string>
+    <string name="Phone">Celular</string>
+    <string name="Email">Correo</string>
+    <string name="Description">Descripción Contacto</string>
+    <string name="EditDate">Editar Datos</string>
+    <string name="Continuo">Siguiente</string>
+    <string name="DateBirthday">Fecha de Nacimiento</string>
+    <string name="Phone2">Celular: </string>
+    <string name="Email2">Correo: </string>
+    <string name="Description2">Descripción: </string>
+    <string name="Title2">Confirmar Datos</string>
+    <string name="NameContent">Tavi Danner Manrique Nestarez</string>
+    <string name="EmailContent">tavidanner96@gmail.com</string>
+    <string name="BirthDayContent">OCT/19/1996</string>
+    <string name="PhoneContent"> </string>
+    <string name="DateBirthday2">Fecha de Nacimiento: </string>
+    <string name="DescriptionContent">Mensaje Vacio</string>
+</resources>
